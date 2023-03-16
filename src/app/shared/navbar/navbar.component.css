@@ -1,0 +1,12 @@
+.imd-logo{
+    max-width: 45%;
+}
+
+@media (max-width: 766px) {
+    .imd-logo {
+        max-width: 80%;
+    }
+    .navbar{
+        position: absolute;
+    }
+}
